@@ -1,1 +1,1 @@
-# Fashion-style-Website
+# fashion-and-lifestyle
